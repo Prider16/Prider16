@@ -36,5 +36,5 @@ I am a Computer Science Student in my Final year and a Game Developer who would 
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dhruv-sinha-986251241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv sinha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-sinha-986251241/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="dhruv sinha" height="30" width="40" /></a>
 </p>
