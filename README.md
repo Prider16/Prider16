@@ -1,40 +1,20 @@
-<!-- Banner -->
-<h1 align="center">
-  🎮 GamerDev Portfolio 🚀
-</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Kumar Sinha</h1>
+<h2 align="center">A Computer Science student and a passionate Game developer</h2>
+<h3 align="left">About Me</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Game%20Dev-Unreal%20Engine-blueviolet?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-Game%20Development-black?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Level-Up-Always%20Grinding-red?style=for-the-badge"/>
+- 🔭 I’m currently a B.Tech Compute Science student with a passion to bring my imagination to life.
+- 🌱 I’m currently learning **Unreal Engine 5 C++**
+- 👯 I’m looking to collaborate on **Unreal 3D games**
+- 📫 How to reach me **dhruvkrsinha17@gmail.com**
+
+<h3 align="left">Languages and Tools:</h3>
+<div display="flex" > <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="MongoDB" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Express.js" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="MongoDB" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="React.js" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Node.js" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML5" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="CSS3" width="75" height="75"/> 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Java" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Python" width="75" height="75"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Git" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="GitHub" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="Canva" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="C" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="C++" width="75" height="75"/> </div>
+
+<h3 align="left">Contact me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dhruv-sinha-986251241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv sinha" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-  🎯 Passionate about creating immersive gameplay experiences and epic story-driven worlds.<br/>
-  💡 From concept art to code — I do it all.<br/>
-  💻 Powered by coffee & curiosity.
-</p>
-
----
-
-## 🧠 About Me
-
-Hi! I'm **[Your Name]**, a gamer-turned-game-developer who loves pushing pixels and creating entire universes from scratch. Whether it's coding mechanics, designing levels, or building engines — I'm always leveling up my dev game.
-
-Languages:
-  - C#
-  - C++
-  - Blueprints (UE)
-  - GDScript
-Engines:
-  - Unity
-  - Unreal Engine
-  - Godot
-Design Tools:
-  - Blender
-  - Photoshop
-  - Figma
-Other Tools:
-  - Git & GitHub
-  - VS Code
-  - OBS
